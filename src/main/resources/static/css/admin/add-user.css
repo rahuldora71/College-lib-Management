@@ -1,0 +1,19 @@
+
+.agreement{
+    width: 1em;
+    height: 1em;
+    margin-top: .25em;
+    vertical-align: top;
+}
+.add-book-section{
+
+    background: url("../../../images/c.jpeg");
+}
+.opacity{
+    /*opacity: 95%;*/
+}
+.add-user-page-heading{
+    text-shadow: 0 0 20px #ffffff;
+    font-size: 3rem;
+    background: url("../../../images/d.jpeg");
+}

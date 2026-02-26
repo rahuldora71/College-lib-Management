@@ -1,0 +1,19 @@
+
+.add-book-section{
+    background: url("../../../images/book-bg.png");
+}
+.add-book-page-heading{
+    text-shadow: 0 0 20px #2200ff;
+    font-size: 3rem;
+    background: url("../../../images/book-bg1.png");
+
+}
+
+.agreement{
+    width: 1em;
+    height: 1em;
+    margin-top: .25em;
+    vertical-align: top;
+}
+
+
